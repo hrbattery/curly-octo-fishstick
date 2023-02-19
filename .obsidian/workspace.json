@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "11a57c16b10dd1b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51aab875e4cf71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "868b2f6ef35473ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "歌词/デビルじゃないもん.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a84b0db42e6431cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "45752d683c4375de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557406f6ef77b591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00a603963405e991",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7561ff11900068b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f868f922776f6d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "7294d04677b7c4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a4a468517b52b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "歌词/デビルじゃないもん.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd94f28ba311d79e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "歌词/デビルじゃないもん.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b1ee1c5fd232402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84e86cc86db62b3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "歌词/デビルじゃないもん.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "868b2f6ef35473ad",
+  "lastOpenFiles": [
+    "编曲课笔记/@}K}NT4~~5[({{Q%_KD8ZIX.png",
+    "@}K}NT4~~5[({{Q%_KD8ZIX.png",
+    "歌词/デビルじゃないもん.md",
+    "第九课.md",
+    "流行常用的和声进行.md",
+    "2022-10-15.md",
+    "第四课.md"
+  ]
+}
