@@ -14,8 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "歌词/デビルじゃないもん.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "32ea7feb6c3c99a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
               }
             }
           },
@@ -87,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f868f922776f6d53",
@@ -168,9 +177,9 @@
   },
   "active": "868b2f6ef35473ad",
   "lastOpenFiles": [
+    "歌词/デビルじゃないもん.md",
     "编曲课笔记/@}K}NT4~~5[({{Q%_KD8ZIX.png",
     "@}K}NT4~~5[({{Q%_KD8ZIX.png",
-    "歌词/デビルじゃないもん.md",
     "第九课.md",
     "流行常用的和声进行.md",
     "2022-10-15.md",
